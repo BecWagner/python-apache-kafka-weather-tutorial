@@ -3,7 +3,7 @@
 
 The Apache Kafka® and Python tutorial aims at showcasing the basics of working with Apache Kafka® and Python using a series of notebooks in the main folder.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Aiven-Labs/python-apache-kafka-tutorial)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/BecWagner/python-apache-kafka-weather-tutorial)
 
 ## Overview
 
@@ -41,7 +41,7 @@ After a couple of minutes, the Aiven for Apache Kafka service will be ready to u
 You need to have Docker installed. Once you do, clone the repository with:
 
 ```bash
-git clone https://github.com/Aiven-Labs/python-apache-kafka-tutorial
+git clone https://github.com/BecWagner/python-apache-kafka-weather-tutorial
 ```
 
 Navigate to the `python-apache-kafka-tutorial` with
